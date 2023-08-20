@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class BoardManager : MonoBehaviour
 {
+    
+    //this is an example for GitHub SOP
+    
     public Brick[] bricks;
     public int activeBrickIndex = 0;
     private int score;
